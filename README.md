@@ -1,4 +1,4 @@
-# graph2table
+# Firkant
 
 The goal of this project is to make it easier to work with data that is stored or can be interpreted as a graph. By graph we mean the mathematical notion, which would probably be referred to as a network in everyday language.
 

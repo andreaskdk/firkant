@@ -6,6 +6,10 @@ More specifically this project provides a tool that allows data in the form of a
 
 In 2009 Google Labs launched an experimental project called Google Squared, which had a very similar focus to this. The project was discontinued in 2012 and it is fairly difficult to find much information on how it worked.
 
+## Data Exploration
+
+How is data explored? Suppose we have a dataset that we know very little about. There are a number of different approaches to getting to know more about this. These usually involve a mixture of querying, inspecting and perhaps visualizing the dataset. Firkant is a tool which aides explorative querying of a dataset based on examples. This is an alternative to the *pipes and filters* approach or the *SQL* query approach. 
+
 ## Lists
 
 Let's start with lists
